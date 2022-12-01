@@ -6,8 +6,7 @@ export default function Hello () {
                 <h1>My Photo Cropper</h1>
               </div>
               <div className="Hello">
-                <Link
-                  href="https://electron-react-boilerplate.js.org/">
+                <Link to="/photo" >
                   <button type="button">
                     <span role="img" aria-label="camara"/>
                       📷 &nbsp;
